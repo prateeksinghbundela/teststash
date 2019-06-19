@@ -12,6 +12,11 @@ class SnippetsController < ApplicationController
     # THIS IS TEST FOR MERGE5
     @data = fetch_snippets
     # THIS IS TEST REBASE
+    # THIS IS TEST FOR MERGE1
+    # THIS IS TEST FOR MERGE2
+    # THIS IS TEST FOR MERGE3
+    # THIS IS TEST FOR MERGE4
+    # THIS IS TEST FOR MERGE5
   end
 
   # GET /snippets/1
