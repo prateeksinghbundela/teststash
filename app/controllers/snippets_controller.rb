@@ -5,7 +5,11 @@ class SnippetsController < ApplicationController
   # GET /snippets.json
   def index
     # @snippets = Snippet.all
-    # THIS IS TEST FOR MERGE
+    # THIS IS TEST FOR MERGE1
+    # THIS IS TEST FOR MERGE2
+    # THIS IS TEST FOR MERGE3
+    # THIS IS TEST FOR MERGE4
+    # THIS IS TEST FOR MERGE5
     @data = fetch_snippets
     # THIS IS TEST REBASE
   end
