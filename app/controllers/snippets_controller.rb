@@ -6,6 +6,7 @@ class SnippetsController < ApplicationController
   def index
     # @snippets = Snippet.all
     @data = fetch_snippets
+    # THIS IS TEST REBASE
   end
 
   # GET /snippets/1
